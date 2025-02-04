@@ -31,3 +31,8 @@ Boas práticas de clean code e refatoração<br>
 <br>
 Introdução ao desenvolvimento web com HTML, C# e Java<br>
 </div>
+<br>
+<div>
+💡Áreas de interesse<br><br>
+  
+</div>

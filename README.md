@@ -20,4 +20,14 @@ Linguagens de Programação: Java e C#<br>
 Conceitos Aprendidos: Lógica de Programação, Orientação a Objetos, Estruturas de Dados, Banco de Dados e Desenvolvimento de Aplicações.<br>
 <br>
 Ferramentas: Git, Visual Studio, IntelliJ IDEA, MySQL.<br>
+  <br>
+  🌱 O que estou aprendendo?<br>
+  <br>
+Atualmente, estou explorando:<br>
+<br>
+Desenvolvimento de APIs<br>
+<br>
+Boas práticas de clean code e refatoração<br>
+<br>
+Introdução ao desenvolvimento web com HTML, C# e Java<br>
 </div>

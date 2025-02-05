@@ -34,5 +34,18 @@ Introdução ao desenvolvimento web com HTML, C# e Java<br>
 <br>
 <div>
 💡Áreas de interesse<br><br>
+🤖 Inteligência artificial <br>
+💻 Desenvolvimento de Softwere <br>
+📈 Marketing Digital <br>
+<div>
+</div>
+<br><br>
+
+📲Contato
+
+
+
+
+
   
 </div>
